@@ -1,0 +1,11 @@
+D:\Projects\HelloDotnetCore\bin\Debug\netcoreapp2.1\HelloDotnetCore.deps.json
+D:\Projects\HelloDotnetCore\bin\Debug\netcoreapp2.1\HelloDotnetCore.runtimeconfig.json
+D:\Projects\HelloDotnetCore\bin\Debug\netcoreapp2.1\HelloDotnetCore.runtimeconfig.dev.json
+D:\Projects\HelloDotnetCore\bin\Debug\netcoreapp2.1\HelloDotnetCore.dll
+D:\Projects\HelloDotnetCore\bin\Debug\netcoreapp2.1\HelloDotnetCore.pdb
+D:\Projects\HelloDotnetCore\obj\Debug\netcoreapp2.1\HelloDotnetCore.csprojAssemblyReference.cache
+D:\Projects\HelloDotnetCore\obj\Debug\netcoreapp2.1\HelloDotnetCore.csproj.CoreCompileInputs.cache
+D:\Projects\HelloDotnetCore\obj\Debug\netcoreapp2.1\HelloDotnetCore.AssemblyInfoInputs.cache
+D:\Projects\HelloDotnetCore\obj\Debug\netcoreapp2.1\HelloDotnetCore.AssemblyInfo.cs
+D:\Projects\HelloDotnetCore\obj\Debug\netcoreapp2.1\HelloDotnetCore.dll
+D:\Projects\HelloDotnetCore\obj\Debug\netcoreapp2.1\HelloDotnetCore.pdb
